@@ -1,0 +1,5 @@
+print(100+80)
+print(22*11)
+print(30/10)
+print(45//20)
+print(45%20)
